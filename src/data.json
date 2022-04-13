@@ -1,0 +1,37 @@
+[
+    {
+        "id":1,
+        "event":"Finish coding an e-commerce",
+        "finished":true
+    },
+
+    {
+        "id":2,
+        "event":"Learn about Blockchain concepts",
+        "Finished":false
+    },
+
+    {
+        "id":3,
+        "event":"Edit and post Instagram contents",
+        "finished":true
+    },
+
+    {
+        "id":4,
+        "event":"Take cats to play on the park",
+        "finished":false
+    },
+
+    {
+        "id":5,
+        "event":"Watch a video about Deep Learning",
+        "finished":false
+    },
+
+    {
+        "id":6,
+        "event":"Read a Literature book",
+        "finished":false
+    }
+]
